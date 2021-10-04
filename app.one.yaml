@@ -1,5 +1,5 @@
 runtime: python39
-service: mixinwallet-com
+service: m653210-com
 
 handlers:
   - url: /
